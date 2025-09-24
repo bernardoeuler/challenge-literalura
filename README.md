@@ -17,7 +17,8 @@ Projeto desenvolvido como desafio proposto pela plataforma **Alura**, com o obje
 - Spring Boot  
 - Spring Data JPA
 - Hibernate
-- PostgreSQL  
+- PostgreSQL
+- Jackson
 - Maven
 
 ## 🚀 Pré-requisitos

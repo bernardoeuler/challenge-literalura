@@ -1,6 +1,6 @@
 # Literalura
 
-Projeto desenvolvido como desafio proposto pela plataforma **Alura**, com o objetivo de treinar o uso do padrão **MVC** (Model-View-Controller) utilizando as tecnologias: **Spring Boot**, **JPA** e **PostgreSQL**.
+Catálogo de livros desenvolvido como desafio proposto pela plataforma **Alura**, com o objetivo de treinar o uso do padrão **MVC** (Model-View-Controller) utilizando as tecnologias: **Spring Boot**, **JPA** e **PostgreSQL**.
 
 ## 📝 Funcionalidades
 

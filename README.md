@@ -6,22 +6,24 @@ Projeto desenvolvido como desafio proposto pela plataforma **Alura**, com o obje
 
 - Buscar por livros na API Gutendex  
 - Salvar os livros obtidos na base de dados  
+- Consultar livros presentes no banco  
 - Consultar autores presentes no banco  
 - Filtrar autores vivos em um determinado ano  
-- Buscar livros por idioma  
+- Buscar livros por idioma
 
 ## 🛠 Tecnologias utilizadas
 
 - Java
 - Spring Boot  
-- Spring Data JPA  
+- Spring Data JPA
+- Hibernate
 - PostgreSQL  
 - Maven
 
 ## 🚀 Pré-requisitos
 
 - Java 17+
-- PostgreSQL configurado  
+- PostgreSQL  
 - Maven  
 
 ## 📥 Como executar o projeto
